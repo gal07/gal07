@@ -5,7 +5,7 @@
 ### Full-Stack Developer | AI Agent Enthusiast | Automation Nerd
 
 <a href="https://github.com/gal07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full-Stack+Developer+%7C+Go+%2F+Svelte+%2F+TypeScript;AI+Agent+Enthusiast+%7C+Building+Smart+Systems;Automation+Nerd+%7C+n8n+%2B+Agentic+AI&bg_color=0D1117&theme=radical&hide_border=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=FFull-Stack+Developer+%7C+Go+%2F+Svelte+%2F+TypeScript;AI+Agent+Enthusiast+%7C+Building+Smart+Systems;Automation+Nerd+%7C+n8n+%2B+Agentic+AI&bg_color=0D1117&theme=radical&hide_border=true" alt="Typing SVG" />
 </a>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gg07658)
